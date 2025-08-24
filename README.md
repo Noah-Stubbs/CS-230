@@ -1,0 +1,20 @@
+# CS-230
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client for this project was The Gaming Room, a company that wanted a multiplayer game application called Draw It or Lose It. Their requirements included supporting multiple simultaneous games, ensuring unique players and teams, and running on multiple platforms. My task was to create a detailed software design document that outlined how to meet these requirements.
+
+What did you do particularly well in developing this documentation?
+Following the trend throughout my degree; I think I do particularly well with the aesthetics of my work. I’ve noticed, especially in other courses where graphs and large documents were posted in discussions, that my content is as expected of a student of my level. However, mine always seemed to be easier to digest. I despise “a wall of text”, so I always put deliberate thought into how the information looks. While it was the most obvious in courses that required diagramming, I think it still shows in this document with habits like my specific style of utilizing bullet points, not letting subsections get split by pages, and even adding my own page breaks just to turn the pages with the graph to landscape so everything stayed as readable as possible. While the debate could be made about how the information is only good if someone reads it, I think this clarity of formatting is a skill that transfers into code. I would rather follow Uncle Bob and write Clean Code, then spaghetti that somehow works. Especially since this whole degree was for personal projects, so the guy I screw over is myself. If I make spaghetti-code somehow work, by the time I revisit the project to change something small, I’ll have to re-write it all because there’s a 100% chance I will have forgotten what I did. As the old saying goes, take the time to do it right, or you’ll have to find the time to do it twice. 
+
+What about the process of working through a design document did you find helpful when developing the code?
+It acting as a roadmap. Considering and planning things ahead of time reduces the guesswork while actually coding. Decisions getting settled up front make it where the programming is mostly execution, not discovery. Though you’ll always discover something forgotten or unseen, it makes the few of those situations manageable vice the otherwise 12-hour session of code and existential crises.  
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+The Evaluation portion. The table was provided in the template, so I filled in the information and tweaked the shape, but I never got it as clean as I would like. I would completely re-do that entire portion with another technique. 
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I just imagined what the user’s use-case would be and thought about the inverse of that relationship. Answering questions like “can we serve the platform they’re going to use” and “what happens if they all enter the same name”. 
+It’s important to consider the user’s needs when designing, because that’s who’s actually using it. If the product doesn’t work for the what the users need it for, then there are no users. No users means no business. It’s hard to label it just “important”, in a way it’s everything. 
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+My approach to designing the software was to start and then narrow into specifics. There is a lot of leeway with this being a set assignment. In the future, I’d continue to do the same but adding iterative feedback loops with the client. There are more requirements that would be drafted in a real scenario; in the beginning, while it’s being created, or both. 
